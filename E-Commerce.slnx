@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="APIGateway/APIGateway.csproj" Id="b6782564-d83b-405d-86e8-e73cba8570ea" />
   <Project Path="E-Commerce.Api/E-Commerce.Api.csproj" />
 </Solution>
